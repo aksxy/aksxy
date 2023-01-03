@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi there! My name is Akshay and I am a programmer. I have a passion for using my technical skills to create innovative solutions and solve complex problems. I have experience in Java, C, C++ programming languages and Web Development and enjoy staying up-to-date with the latest industry trends and best practices. In my free time, you can find me tinkering with new technologies or contributing to open source projects. I am always looking for new opportunities to grow as a programmer and make a positive impact through my work.
+   My name is Akshay and I am a programmer. I have a passion for using my technical skills to create innovative solutions and solve complex problems. I have experience in Java, C, C++ programming languages and Web Development and enjoy staying up-to-date with the latest industry trends and best practices. In my free time, you can find me tinkering with new technologies or contributing to open source projects. I am always looking for new opportunities to grow as a programmer and make a positive impact through my work.
 
 
 
