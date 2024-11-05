@@ -1,5 +1,5 @@
 ### Hi there 👋
-   My name is Akshay and I am a programmer. I have a passion for using my technical skills to create innovative solutions and solve complex problems. I have experience in Java, C, C++ programming languages and Web Development and enjoy staying up-to-date with the latest industry trends and best practices. In my free time, you can find me tinkering with new technologies or contributing to open source projects. I am always looking for new opportunities to grow as a programmer and make a positive impact through my work.
+   I am Akshay a Dedicated and results-driven DevOps Engineer with hands-on experience in implementing and managing scalable CI/CD pipelines, containerized applications, and cloud infrastructure. A Computer Science graduate with a strong foundation in DevOps tools and practices, ready to contribute effectively in dynamic tech environments. Proven problem-solving skills and adaptability with a proactive approach to optimizing processes and enhancing system reliability.
 
 
 
@@ -8,7 +8,7 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aksxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aksxy&theme=dark&hide_border=false)<br/>
